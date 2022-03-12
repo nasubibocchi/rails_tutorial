@@ -1,0 +1,16 @@
+current directory: /Users/hitomi/RubyProjects/first_project/hello_app/vendor/bundler/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+/Users/hitomi/.rbenv/versions/3.0.0/bin/ruby -I /Users/hitomi/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20220311-31886-u9zgtc.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/hitomi/RubyProjects/first_project/hello_app/vendor/bundler/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make "DESTDIR=" clean
+
+current directory: /Users/hitomi/RubyProjects/first_project/hello_app/vendor/bundler/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make "DESTDIR="
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/hitomi/RubyProjects/first_project/hello_app/vendor/bundler/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20220311-31886-vmicie
